@@ -3,8 +3,9 @@ public class TestMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- System.out.print("Hello Chicken World!");
-
+ System.out.println("Hello Chicken World!");
+ System.out.println("Goodbye");
+ 
 	}
 
 }
